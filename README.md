@@ -17,13 +17,16 @@ This project is a clone of the Amazon homepage built to practice front-end devel
 **Features**
 
 -> Basic homepage layout similar to Amazon.
+
 -> Product display, navigation bar, and basic styling elements.
+
 -> Responsive design to work across desktop and mobile.
 
 **Tech Stack**
 
-HTML
-CSS
+-> HTML
+
+-> CSS
 
 **Screenshots**
 
@@ -35,8 +38,10 @@ CSS
 
 
 **Contributing**
+
 Pull requests are welcome! Please open an issue first if you have any major changes in mind.
 
-License
+**License**
+
 This project is open-source and available under the MIT License.
 
