@@ -1,47 +1,23 @@
-# Amazon-clone
-A simplified clone of the Amazon website, featuring only the homepage. This project is built as part of a learning exercise in front-end web development.
+# Amazon Clone
 
-**Table of Contents**
+A simplified clone of the Amazon homepage using **HTML** and **CSS**.
 
-1. Project Overview
-2. Features
-3. Tech Stack
-4. Screenshots
-5. Contributing
-6. License
-   
-**Project Overview**
+## Features
+- Basic homepage layout similar to Amazon.
+- Responsive design for desktop and mobile.
 
-This project is a clone of the Amazon homepage built to practice front-end development skills, with a focus on layout, styling, and responsive design.
+## Tech Stack
+- **HTML**
+- **CSS**
 
-**Features**
+## Installation
+Clone the repository and open `index.html` in your browser.
 
--> Basic homepage layout similar to Amazon.
+## Screenshots
+![Screenshot (721)](https://github.com/user-attachments/assets/27b5f97e-6e2a-469a-9389-14c2ed4eb1f5)
 
--> Product display, navigation bar, and basic styling elements.
+![Screenshot (722)](https://github.com/user-attachments/assets/33af1ce7-b549-41e6-a87e-c60cec8556db)
 
--> Responsive design to work across desktop and mobile.
+![Screenshot (723)](https://github.com/user-attachments/assets/bfa9b7de-3273-4220-baa1-1ab2e425973b)
 
-**Tech Stack**
-
--> HTML
-
--> CSS
-
-**Screenshots**
-
-![Screenshot (721)](https://github.com/user-attachments/assets/6d680fbb-f01e-47b6-916a-2fdeed593e48)
-
-![Screenshot (722)](https://github.com/user-attachments/assets/438bba37-9ca0-4d45-b411-46b824c4fe39)
-
-![Screenshot (723)](https://github.com/user-attachments/assets/0bc9ba5e-e175-4f13-9a62-d001b08e9f1e)
-
-
-**Contributing**
-
-Pull requests are welcome! Please open an issue first if you have any major changes in mind.
-
-**License**
-
-This project is open-source and available under the MIT License.
 
